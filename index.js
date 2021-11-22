@@ -1,1 +1,1 @@
-console.log('index 3')
+console.log('index 1')
