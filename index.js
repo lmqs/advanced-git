@@ -1,1 +1,1 @@
-console.log('hello git 2 (testando checkout 2)')
+console.log('index 3')
